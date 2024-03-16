@@ -1,0 +1,20 @@
+0 German
+1 French
+2 Drama
+3 History
+4 French
+5 German
+6 Math
+7 Philosophy
+8 Accounting
+9 Psychology
+10 Drama
+11 Physical Education
+12 Math
+13 Biology
+14 Philosophy
+15 Physics
+16 Art
+17 Literature
+18 French
+19 Philosophy
